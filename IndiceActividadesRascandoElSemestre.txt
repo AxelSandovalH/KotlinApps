@@ -1,0 +1,7 @@
+Android Studio Actividad 2: Calculadora Basica
+Android Studio Actividad 3: Calculadora Avanzada
+Android Studio Actividad 3B: Calculadora Avanzada Potencia Modulo y Division Entera en Kotlin con Jetpack Compose 
+Android Studio Actividad 4:  Calculadora Cientifica on Kotlin Y Jetpack Compose Operaciones Avanzadas y Trigonometria 
+Android Studio Actividad 5: App de Login y Calculadora Calorias y Maraton con Kotlin en Android Studio
+Android Studio Actividad 6: Convertidor de divisas
+Android Studio Actividad 7: ESTA PENDIENTE NO LA HE HECHO PIDELA
